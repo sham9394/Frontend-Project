@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
-import CustomerDetailsComponent from "./components/home/parent/CustomerDetailsComponent";
-import DriverDetailsComponent from "./components/home/parent/DriverDetailsComponent";
+import CustomerDetailsComponent from "./Components/home/parent/CustomerDetailsComponent";
+import DriverDetailsComponent from "./Components/home/parent/DriverDetailsComponent";
 
 import HomeImage from "./assets/homepage.jpg"
 //import "./ScrollerCustomerComponentStyles.css"
